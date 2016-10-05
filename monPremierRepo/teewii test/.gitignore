@@ -1,0 +1,5 @@
+vendor/
+var/
+web/bundles
+.idea/
+app/config/parameters.yml
